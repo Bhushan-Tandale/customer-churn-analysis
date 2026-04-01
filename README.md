@@ -41,7 +41,7 @@ Raw Dataset → Excel Analysis → SQL Transformation → Python EDA → Power B
 * Converted raw fields into proper data types (boolean, numeric, etc.)
 * Performed churn-focused analysis queries
 
-📄 SQL File: 
+📄 SQL File: `sql/Telco_SQL.sql`
 
 ### Key SQL Analysis:
 
@@ -79,7 +79,7 @@ Developed an interactive dashboard to visualize churn insights:
 * Interactive slicers for segmentation
 
 📸 Dashboard Preview:
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](dashboard/Dashboard.jpg)
 
 ---
 
@@ -128,4 +128,4 @@ Telco Customer Churn Dataset (public dataset)
 
 ## 👤 Author
 
-Your Name
+Bhushan Tandale
